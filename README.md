@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Beihang University(BUAA).
 - 🌱 I’m currently engaged in research on computer vision. My research direction is video generation and vector graph generation based on diffusion model.
-- 📫 How to reach me: You can send email to 18377221@buaa.edu.cn.
+- 📫 Contect me or want more info? Click [here](zhthtcz.github.io).
 - ⚡ Fun fact: Where there is a will, there is a code.

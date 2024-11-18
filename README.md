@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Beihang University(BUAA).
 - 🌱 I’m currently engaged in research on computer vision. My research direction is video generation and vector graph generation based on diffusion model.
-- 📫 Contect me or want more info? Click [here](zhtjtcz.github.io).
+- 📫 Contect me or want more info? Click [here](https://zhtjtcz.github.io).
 - ⚡ Fun fact: Where there is a will, there is a code.
